@@ -1,2 +1,2 @@
 # B527FPGA_AI
-IC innovation contest public repo
+### IC innovation contest repo-team member wangtao0811
